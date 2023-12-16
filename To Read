@@ -1,1 +1,22 @@
+Web Scraping Website/Software used
+- Apify
+  Extenstion of apify: Best Reddit Scrapper
+
+Pre-Processing Software
+- Excel 
+  What we Store 
+    -Author ID
+    -Body(contain the Opinion)
+    -URL(url of the Post)
+
+Using Python Libraries NLTK :: Natural Language Toolkit to be used to analyze the opinion of respondent also known as text mining.
+
+Libraries to be installed:
+  pip
+  pandas
+  textblob
+  openpyxl
+
+Exported as csv. to be used in weka for further mining.
+
 
