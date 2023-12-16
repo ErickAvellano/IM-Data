@@ -1,0 +1,143 @@
+body,Sentiment_Score,Sentiment_Label
+Facts,0.0,Neutral
+Patrick jmt is the best for math on YouTube,1.0,Positive
+"My diffeq teacher was the worst. He seemed to really understand the stuff, but he would never actually explain it to you. He would just read his pretyped notes slower and more condescending. I only passed because of the online second half of his class. I wish I understood that math. It’s something that I would like to apply, I just don’t get it.",-0.06666666666666667,Negative
+Whats the clas?,0.0,Neutral
+"I am in the exact same situation with my computer science algorithms course....first homework is suppose to be a warmup and I cant even get it done...used discord servers for help too and cant do it. If anyone have any advice, please let me know. I use c++ to code.",0.125,Positive
+"I've found for online classes it's great to have 2 screens.
+One for the presentation, one for the faces.
+Having the video of those in the class up makes it a lot more interactive.",0.65,Positive
+Have you mentioned to the lecturer that the concepts are unfamiliar to you and other students that don't take those (I'm assuming optional?) Calc 3 classes.,-0.125,Negative
+"We have and everytime he says something along the lines of ""its not required but it helps""",0.0,Neutral
+"Well, if ""it helps"" then it would only be fair to include relevant explanations from the other modules",0.24375000000000002,Positive
+"You don’t need to have taken calc 3 or Linear algebra to learn the concepts in DE, it certainly helps but you’ll be fine. Watch YouTube videos and search for specific contents online which you are stuck on. I guarantee that you’ll do fine this semester.",0.2619047619047619,Positive
+"Fuck DE, all my niggas hate DE.
+
+But seriously I got an A in that class and honestly I still don't know what it was about tbh.",-0.23333333333333336,Negative
+"&gt;Calc 3 isnt a requirement for this class but he keeps being up calc 3 concepts or things from linear algebra
+
+Pretty strange that Calc III isn't a prerequisite for DE. At my university, prerequisites for DE are Calculus III and Linear Analysis I, and that's pretty typical from what I hear. I can't imagine trying to understand transforms and such without having some understanding of linear algebra and vector calculus first, it just doesn't make sense without that basis. 
+
+That said, if you can get access  to Calculus: Early Transcendentals auth:James Stewart, that is an excellent resource and I know there are pdfs floating around various google drives all the time. Kahn Academy has excellent videos on linear algebra, like seriously, you can teach yourself LA with nothing but a textbook and Kahn Academy. If you just need to understand vector and matrix operations, even youtube will do fine, just search for the particular operation you need to learn",0.22179487179487176,Positive
+[Michel van Biezen](https://www.youtube.com/c/MichelvanBiezen) has a lot of examples that might help you. He does a lot of other subjects too so it's worth looking into.,0.0875,Positive
+"I just took dif Eq over the summer, I would definitely be willing to help or send notes your way!",0.3125,Positive
+First year taking 300 lvl classes too and struggling in my probability class. don’t give up,0.25,Positive
+"I'm also doing all 300 level courses. I have not gotten higher than a 60% on any assignment, exam, or lab report. I usually cry myself to sleep most nights at this point",0.16666666666666666,Positive
+I’m taking thermodynamics and differential equations. Professor are not helpful. Give a lot of homework and on test day DE gives 50 mins to answer 5 questions that took me forever to do on the homework. Thermodynamics give 25 to work on one question with 5 parts. Again took a while since I’m not really learning it being online.,-0.1,Negative
+"Paul’s Online Math Notes is one of the best sources out there. He covers algebra, Calc 1, 2 and 3 along with diffeq. Detailed notes + easy to digest practice problems/modules = less pain. Simple maths. Shoutout Paul. 
+
+Link: https://tutorial.math.lamar.edu",0.3333333333333333,Positive
+"I did my entire Masters in Engineering online (I was working full time and didn't want to take a year off). If you want some tips I'm happy to list some of the things that worked best for me. It's definitely a different learning style from being on campus, but it's absolutely possible.",0.35833333333333334,Positive
+Yes! Please list them here if you don't mind!,0.0,Neutral
+"Ilectureonline
+
+Has saved my ass so many times",0.5,Positive
+Professor Butler. He's awesome and also Reddit and YouTube famous right now,0.5952380952380952,Positive
+[deleted],0.0,Neutral
+I feel that I had a 3.97 going into sophomore year. Ochem and Calc 3 took me down to a 3.8 and I can NOT lose more lol,0.3814814814814815,Positive
+Yeahhhhh I’m taking calc 3 and diffeqs rn and my prof talks at light speed,0.4,Positive
+"Paul's Notes, Khan Academy and prof leo will save you as they have saved thousands before and since.",0.0,Neutral
+"The only in person things I have is a materials lab and a geotech lab which I'm glad to have because otherwise it would be impossible to experience these real concepts virtually, but yeah online sucks so much",-0.0111111111111111,Negative
+"I agree with others who say Professor Leonard and Jeff Hansen.
+
+On a side note this is interesting, where do you live?  In my state most schools have Calc 3 &amp; DE as 200 level courses, Calc 3 is 100 level at some schools.  Almost every 300 level math or engineering course I've seen has Calc 3, DE, Linear, or some co-requisite physics/engineering course of theirs as a pre-req.",0.37878787878787873,Positive
+"Calc 3 not being a requirement doesn’t mean Diff Eq doesn’t use anything from it both are calculus subjects. The calc 3 in diff eq wasn’t bad if I remember right. It was literally just “this but with z”. 
+
+Diff Eq in undergrad is largely cookbook math, thats what separates it from calcs 1-3. You may notice your professor skips derivations a lot. This is because they are probably way more advanced than anything you’ve seen and to teach you them would be a waste. The best way to pass Diff Eq is to shoot for memorization over understanding. At the end of the day, you are either setting up or solving a differential equation. The entire class is techniques to do this for a specific class of Diff Eq’s that have been rigorously solved by mathematicians. The class is about memorizing techniques that get you general/specific solutions that come in near identical forms most of the time, and to memorize those steps doesn’t usually require a complete understanding of them.
+
+Most people’s advice in engineering and calc is “do problems until you get it”. For diff eq its more-so “do problems until you can do them in your sleep and then do more”. It sucks but there aren’t many other ways to get through this class that I know of.
+
+I for one hated diff eq for this reason, and if your moving on to PDE’s, its more or less the same cookbook type math. The sources everyone else mentioned are great, especially professor leonard. Good luck man, online classes blow monkey dicks.",0.13317901234567905,Positive
+"This sounds a lot like my experience although I liked and did a lot better in Diff Eqs than my calculus and linear algebra classes. I found Diff Eqs is just applying patterns to problems. Solving each problem was just doing the same step by step process to it that you’ve done with all the other problems. 
+
+Don’t get me wrong, it can get tricky. I got A’s on all my midterms but bombed the final and ended up with a B in the class. I guess my professor saved all the really hard problems for the final.",0.022916666666666675,Positive
+This^^^,0.0,Neutral
+"I just got through that class last summer and had to take it online. Just use your resources to a maximum: [Youtube] Khan Academy, PatrickJMT,and TheOrganicChemistryTutor AND [Software/Solvers for checking] Mathematica/WolframAlpha, 3Dmath.org, desmos, and Symbolab AND [websites] mathisfun (advanced), and Paul's online math notes.
+
+And practice practice practice!",-0.08333333333333333,Negative
+make sure to watch prof leo on youtube but also solve problems from textbook and chegg your answers this helped me a lot last semester i got B+,0.25,Positive
+Practice problems is how I got tough that class,-0.3888888888888889,Negative
+"I struggled with DE a lot... I ended up taking it four times (dropped it twice, got a D then finally passed with a B) Granted I did so poorly because I didn't take the necessary time to learn the material on my first couple attempts. So make sure you do that. What helped me understand the course was thinking of myself as a  program and having to apply the necessary operations to solve the given ODE. I am attaching a link to a professor at another university DE notes. I recommend at least peaking at them. Don't lose faith in yourself, I know things can be rough and feel completely lost. A mentality I found to be helpful is a challenge is an opportunity to grow as an individual 
+
+[https://tutorial.math.lamar.edu/classes/de/de.aspx](https://tutorial.math.lamar.edu/classes/de/de.aspx)
+
+Best of luck in your endeavors!",0.09545454545454546,Positive
+I feel that lol I’ve got my first diff eq exam today and I’m not ready at all,0.3166666666666667,Positive
+Same. I've been watching khan/leonard to try and make things stick but it's not working so well. Hopefully I can find a strategy that works soon.,0.0,Neutral
+"Making things stick is nearly impossible it seems, I feel like all im doing is passing the quizzes, not learning",-0.6666666666666666,Negative
+"As far as lindiff goes, I can't think of somebody who made it easier to understand than Gilbert Strang. He's a charming old dude from MIT that has full lectures and also short concept videos. You can check him out on youtube or MIT's Open courseware website. Good luck, brother!",0.30357142857142855,Positive
+"Are you guys on matrices? Thats what we are on and my instructor puts videos out that simplify all the book content(but it doesnt explain every detail from the book so use as a suppliment)
+
+Goto youtube and type in: brcc math 2904
+
+The guys name is Beau Ferguson.
+
+His videos have helped me understand what to do for the most part with matrices.
+
+Edit: i cant remember if he labels his videos or just puts the section numbers. If its just section numbers then you might want to reference our book. Which is by steve goode, diff eqs and lin alg 4th edition. Find it on library genises. Sorry i would give u direct links but im not at my desk.",0.03333333333333333,Positive
+I’d just like to say same. I took calc 3 but difeq online isn’t being good to me,0.35,Positive
+This is why I took this semester off,0.0,Neutral
+Same bro facts! They don't want to lower the price and online stem classes literally sounds like hell. Kick back drink a beer and wait,0.0,Neutral
+I wish I could but I'd loose all my scholarships :/ I just gotta try to get through these next few semesters without loosing them,-0.13173076923076923,Negative
+I was full time this semester but it was killing me so I dropped down to part time and boy that was the best decision I've made in a long time.,0.2861111111111111,Positive
+"Boy, I wish I had done the same.",0.0,Neutral
+I know myself and I know I cannot learn upper level engineering material online.  I’ll lose 6 months of time rather than ruin my gpa,0.0,Neutral
+,0.0,Neutral
+I know myself and I know I cannot learn upper level engineering material online.  I’ll lose 6 months of time rather than ruin my gpa,0.0,Neutral
+My school has already confirmed that the spring semester will be all online. So you’d be looking possibly join next fall and even that’s a maybe at this point.,0.13333333333333333,Positive
+Yeah but you really think we'll be on campus anytime soon?,0.2,Positive
+If not next semester then the semester after that,0.0,Neutral
+"Genuine question, bad case scenario let’s say next year is online as well.
+
+What do you do?",-0.09999999999999994,Negative
+I wouldn't go his route I say if he is worried about his GPA take less classes then. maybe 1-2 is better than none.,0.16666666666666669,Positive
+Lol work and wait,0.8,Positive
+"I feel a ton of sympathy for students right now. Online learning is difficult and requires very different habits than in-person courses.
+
+I know these are beginner oriented, but I have made a couple videos that cover differential equations in the context of engineering. [First Order Differential Equations,](https://youtu.be/6tLD2HBl3A4) [Second Order Differential Equations](https://youtu.be/zCFbE-U0OY4), and [Linear Algebra](https://youtu.be/IouhOyDNL4g). They might not help with what you're struggling with, but they could give you a place to start and refresh your memory.",0.00714285714285714,Positive
+Just sub'd thank you!,0.0,Neutral
+This is great thank you.,0.8,Positive
+just subscribed,0.0,Neutral
+"Thanks, I appreciate it!",0.25,Positive
+Thanks a lot.,0.2,Positive
+Use Paul’s online notes it helped me tremendously and it’s also good as a review,0.5166666666666666,Positive
+i live for this site!,0.17045454545454544,Positive
+Professor Leonard will help you out. Check out his YouTube series on DE,0.0,Neutral
+"That dude is such a valuable resource that I started a recurring payment for his Patreon account as soon as I could afford it. I'm no longer a student, but I'm going to keep giving that man money for as long as he continues to teach. We need more teachers like him because quality teachers make such a tremendous difference, and I'm so grateful his videos are available to anyone with an internet connection.",0.19722222222222222,Positive
+Professor Leonard is a blessing. That and brown professors. They get it done.,0.0,Neutral
+mods should pin his channel at this point,0.0,Neutral
+Him and Jeff Hanson,0.0,Neutral
+,0.0,Neutral
+Him and Jeff Hanson,0.0,Neutral
+"&gt; Jeff Hanson
+
+Ah yes, Chief Sohcahtoa of the Triangle Tribe himself. That man is literally carrying me through Statics right now.",0.2857142857142857,Positive
+He doesnt have anything on Matrices though.,0.0,Neutral
+Professor Dave Explains for matrices,0.0,Neutral
+Thank you!,0.0,Neutral
+Pauls online math notes are the only reason I survived calc 4,0.0,Neutral
+"Math sorcerer is great too, I watched him and Leonard for diffeq",0.8,Positive
+"Came here to say Professor Leonard too, that man is the reason I passed calc 2 and 3 (was in diff eq when he was still at the beginning of diff eq so he only got me a couple of weeks)  but he really is amazing",0.30000000000000004,Positive
+Paul's online math notes is a great resource as well if you prefer text over video like myself,0.8,Positive
+"He's not joking, professor Leonard is the best, put his classes on x1.5 speed 😅
+
+EDIT: x2 speed is the new x1.5; happy speedrunning!",0.712121212121212,Positive
+,0.0,Neutral
+"He's not joking, professor Leonard is the best, put his classes on x1.5 speed 😅
+
+EDIT: x2 speed is the new x1.5; happy speedrunning!",0.712121212121212,Positive
+"BTW, there's a chrome extension called Video Speed Controller or something like that. You can control YouTube video speed with the press of a hotkey, in increments of 10%",0.0,Neutral
+Exactly. So much wasted time repeating so I’ve adopted the double speed lectures. Slow it down if you’re struggling with a concept but teachers love to turn short lessons into 90 minute videos,-0.025925925925925925,Negative
+"Make the jump to 2x chief.
+
+You’ll never go back.",0.0,Neutral
+"that's for sure. One of my professors uploads his classes on youtube for us to watch and i tend to watch them on x2 speed. The funny thing is that when we have a ""live"" session it feels strange to hear the professor on normal speed",0.19727272727272727,Positive
+I'm a firm believer in 2x videos. It actually keeps my focus better because there's no downtime,0.09999999999999999,Positive
+[deleted],0.0,Neutral
+"Writing can be helpful, but it depends on the class",0.0,Neutral
+"For real, I watched a 2 hour lecture at 1.5 and next time I'm upping it again.",0.1,Positive
+RELATABLE. I’m taking all junior courses except for one senior course and this stuff is brutal,-0.875,Negative
+"Whats considered junior level? Im taking Calc 3, Statics and physics 2 at a CC and am not really sure where I am with it lol",0.275,Positive
+"My first Junior level courses were Kinematics if mechanisms, applied mechanics of materials, fluid mechanics, etc",0.125,Positive
+"You won’t achieve junior level until you transfer, everything you do now is typical pre reqs you would do as if you did your first 2 years at university. Junior level courses are typically the first set of more specific classes related to your major.",0.09114583333333334,Positive
+Those classes are usually considered sophomore level.,-0.25,Negative

@@ -1,0 +1,41 @@
+body,Sentiment_Score,Sentiment_Label
+"Here's a professor's take on it.  Grades are up but learning is down.  Not everyone, but many are just cheating their way through and sliding by.  We need to be lenient because of the extreme circumstance we are all in.  Grades have been inflated at my campus, but everyone agrees that the students actual learn and retain less material.",0.09212962962962963,Positive
+In my experience my grades suffered.,0.0,Neutral
+"grades improved, education GREATLY suffered.",0.8,Positive
+My grades stayed the same but it took more effort to maintain them,0.25,Positive
+Grades have been better. Learning retention has plummeted.,0.5,Positive
+"Grades stayed the same. Stress increased because I realized that I’m not learning and retaining as much of the material as I used to, so I’m worried about next year.",0.06666666666666667,Positive
+"I think mine are better than they would be in person, just because I feel less social anxiety and pressure online",0.12222222222222223,Positive
+"Better, but could also be due to the fact that I switched from a university to a community college",0.1875,Positive
+"Grades are better, but probably only because my teachers seem very lenient and because the 1st half of the semester is usually when the best stuff happens. Then my motivation just dies down in the 2nd half and I have to push myself so much to keep on going.",0.16111111111111112,Positive
+I cheat online. Grades are the same but it's a bit easier.,0.0,Neutral
+"About the same grade wise. However, I have hardly learned a thing since online school started. I went to school for an education not a degree. Online school is soooo stupid",-0.09791666666666667,Negative
+Straight As. I’m doing better this masters than my last one. Both were online.,0.2333333333333333,Positive
+Suffered. All of my classes have been completely online. The only semester I did well in was also the only semester where I had to attend zoom meetings.,0.03333333333333333,Positive
+"Probably better. Having said that, I have improved over the year. Having access to less resources has actually made me more critical which is one thing to suggest I have benefitted from. 
+
+Pros:
+
+1, Less social stress
+2, Lower travel time (less time wasted)
+3, Improvement to critical thinking 
+
+Cons:
+
+1, Essentially no resources 
+2, Online format makes a 5 hour work day seem like a 12 hour one (general fatigue)
+3, Procrastination is much more of a threat",0.06794871794871796,Positive
+"my grades improved because of online classes due to the fact that we rarely have quizzes, instead, we get credit for our outputs in form of essays, digital art, videos. irl tho, as a nursing student, we’re bombarded with quizzes hard as hell every other day. dk if i should be happy or worried when physical classes start",0.07976190476190477,Positive
+worse,-0.4,Negative
+Suffer. So much suffering. I suck now.,0.2,Positive
+Improved 100 percent.,0.0,Neutral
+"It depends on the class. Some of my classes take absolutely no effort, while others take up well over ten hours of my week. My grades are the same but they have been incredibly difficult to maintain.",-0.15,Negative
+Suffered,0.0,Neutral
+"I’ve made straight As ever since covid hit but spring 2020 was also my first semester at a new school so I can’t say if they are only high because of covid. I definitely put in a lot of work for school though. Some of my classes require a webcam for exams, some do not. For the classes that don’t monitor it I still study like it’s closed book test so I feel my learning has been the same. However, I do check my answers on these kind of exams because if I don’t I’m at a disadvantage since everyone else will. So my exam grades in certain classes are probably slightly improved. For the most part though I feel like they are not that different than if the test was monitored because like I said I still study like it’s closed book. If I just look up every answer on a test I get no personal satisfaction from that.",0.11293217893217893,Positive
+"I always found online classes easier in terms of non math or science classes. But when it comes to STEM it can still be very hard.
+
+I mean, my idea of learning is really focused on retention. It’s clear due to COVID that is not the goal here.",-0.10333333333333332,Negative
+"Haven't done college physically yet, but I think first semester was marginally easier than high school when it comes to getting a 3.7+ GPA. Finals are considerably easier which surprised me, but it's no easier than it had been for the past decade or so. Although the open book nature has reduced rote-learning which is great, the exams have often been tailored to accommodate for that. Plus, I honestly don't think open note has made much if a difference and I barely needed to source my notes for the exams. Assignment/homework-wise however, it is considerably harder. Online learning has exacerbated the difficulty of them too due to the lack of support, communication for group projects (which are an absolute nightmare online) and it's much much easier to procrastinate. In fact, procrastination alone meant that the difficulty may have practically increased.",0.1365625,Positive
+Some are better and some are worse,0.04999999999999999,Positive
+"I was passionate about every second of any class during presential classes. Now that everything is online I can't stay focused, feel interested and I don't feel confident on asking for feedback since that means showing everyone that now I went from a model student to someone that is struggling.
+So yeah, I went from being one of the best students on my classes to being one of the worst ones",0.11666666666666665,Positive
